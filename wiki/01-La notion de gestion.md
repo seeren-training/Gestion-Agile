@@ -9,7 +9,7 @@ ___
 
 ## 📑 Le gestion de projet
 
-![image](https://raw.githubusercontent.com/seeren-training/Gestion-Agile/master/wiki/resources/01/Gestion-De-Projet.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Gestion-Agile/master/wiki/resources/01/Gestion-de-Projet.jpg)
 
 > Un « projet » est une « entreprise temporaire dans le but de créer un produit, un service ou un résultat unique.
 
@@ -77,7 +77,7 @@ ___
 
 ## 📑 Itératif
 
-Les cycles de vie itératifs et incrémentaux se différencieent par le découpage des phases, il ne se fait plus par spécialisation des tâches, mais par version successives du produit, chaque version correspondant à un niveau de maturation du produit.
+Les cycles de vie itératifs et incrémentaux se différencient par le découpage des phases, il ne se fait plus par spécialisation des tâches, mais par version successives du produit, chaque version correspondant à un niveau de maturation du produit.
 
 ![image](https://raw.githubusercontent.com/seeren-training/Gestion-Agile/master/wiki/resources/01/itératif.jpg)
 
